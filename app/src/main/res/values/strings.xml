@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coba Database</string>
+    <string-array name="namaBarang">
+        <item>Pilih Barang</item>
+        <item>Chitato</item>
+        <item>Potabee</item>
+        <item>Fruit Tea</item>
+        <item>Fresh Tea</item>
+    </string-array>
+</resources>
